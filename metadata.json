@@ -1,0 +1,5 @@
+{
+  "name": "CogniGen - AI General Intelligence Assessment",
+  "description": "An adaptive General Intelligence Assessment (GIA) powered by Gemini 2.5. Measures reasoning, perceptual speed, number speed, and verbal capability using dynamically generated psychometric evaluation tasks.",
+  "requestFramePermissions": []
+}
